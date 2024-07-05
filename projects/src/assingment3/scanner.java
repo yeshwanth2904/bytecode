@@ -18,8 +18,8 @@ public class scanner {
     	}
     else 
     {
-    }
+    System.out.println("c is greater"+c);
     
 	}
 
-}
+	}}
